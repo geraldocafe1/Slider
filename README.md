@@ -1,8 +1,16 @@
 ![Logo do Git](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
+
+<!-- _Menu e links internos -->
+[Ben vindo](#bem-vindo-ao-curso-de-git-e-github)
+[Modulos](#módulos)
+[Rede Social](#rede-social)
+[] 
+
 # Bem vindo ao curso de Git e GitHub
 Nesse curso você vai dominar **git** e **github** _do zero ao profissional._
 
 <!--Criando uma task list dentro do markdown-->
+
 **Ultimas updates:**
 - [x] Site responsivo
 - [ ] Login com facebook
@@ -46,7 +54,7 @@ trabalhando com **branches**._ -->
 >
 >Segunda area destacada
 
-**Comando para rodar o projeto**
+# Comando para rodar o projeto
 ```
 npm start
 ```
