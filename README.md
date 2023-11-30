@@ -1,5 +1,5 @@
 ![Logo do Git](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
-# Bem ao curso Git e GitHub
+# Bem vindo ao curso de Git e GitHub
 Nesse curso você vai dominar **git** e **github** _do zero ao profissional._
 
 ## Módulos:
