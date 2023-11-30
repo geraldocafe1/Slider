@@ -14,6 +14,8 @@ trabalhando com **branches**._ -->
 
 <!-- Lista ordenada-->
 1. Começando com GIT
+    1. O que é Git
+    2. Intalando Git
 2. Aprendendo sobre Branches.
 3. Git avançado.
 4. Usando git de forma profissional
