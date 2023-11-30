@@ -1,3 +1,4 @@
+![Logo do Git(https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitmage.png)
 # Bem ao curso Git e GitHub
 Nesse curso você vai dominar **git** e **github** _do zero ao profissional._
 
