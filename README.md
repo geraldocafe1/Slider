@@ -2,6 +2,12 @@
 # Bem vindo ao curso de Git e GitHub
 Nesse curso você vai dominar **git** e **github** _do zero ao profissional._
 
+<!--Criando uma task list dentro do markdown-->
+**Ultimas updates:**
+- [x] Site responsivo
+- [ ] Login com facebook
+- [ ] Pagina sobre a empresa
+
 ## Módulos:
 <!-- _Entendendo o que é **git**, aprendendo sobre **respositório**,
 trabalhando com **branches**._ -->
