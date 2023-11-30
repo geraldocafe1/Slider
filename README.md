@@ -34,3 +34,11 @@ trabalhando com **branches**._ -->
 
 [Youtube](https://youtube.com/c/geraldocafe)
 
+
+<!--Blockquote algo para destacar um texto-->
+>Ete é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada
+
+
+
