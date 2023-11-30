@@ -6,12 +6,17 @@ Nesse curso você vai dominar **git** e **github** _do zero ao profissional._
 <!-- _Entendendo o que é **git**, aprendendo sobre **respositório**,
 trabalhando com **branches**._ -->
 
-<!-- Lista nao ordenada-->
+<!-- Lista Nao ordenada-->
 * Começando com GIT
 * Aprendendo sobre Branches.
 * Git avançado.
 * Usando git de forma profissional
 
+<!-- Lista ordenada-->
+1. Começando com GIT
+2. Aprendendo sobre Branches.
+3. Git avançado.
+4. Usando git de forma profissional
 <!-- Tipos de titulos -->
 <!-- # Titulo <1>
 
