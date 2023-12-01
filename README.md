@@ -24,7 +24,7 @@ trabalhando com **branches**._ -->
 * Começando com GIT
 * Aprendendo sobre Branches.
 * Git avançado.
-* Usando git de forma profissional
+* Usando github de forma profissional
 
 <!-- Lista ordenada-->
 1. Começando com GIT
@@ -32,10 +32,10 @@ trabalhando com **branches**._ -->
     2. Intalando Git
 2. Aprendendo sobre Branches.
 3. Git avançado.
-4. Usando git de forma profissional
+4. Usando github de forma profissional
 <!-- Tipos de titulos -->
 <!-- # Titulo <1>
-
+Hedings
 ## Titulo <2>
 
 ### Titulo <3>
@@ -89,3 +89,7 @@ name | Para informar o nome do usuario
 size | Para definir o tamanho do campo
 background | Cor de fundo da area em HEX
 onPress | Função chamada quando clicar no botão
+
++ Geraldo Cafe
+- Senai Sumare
+* Vai Corinthians
